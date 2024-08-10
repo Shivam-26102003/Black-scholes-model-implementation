@@ -1,1 +1,1 @@
-Implementation of Black Scholes Model
+Implementation of Black Scholes Mode
